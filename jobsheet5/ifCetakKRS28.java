@@ -19,6 +19,5 @@ public class ifCetakKRS28 {
             ? "Pembayaran UKT terverifikasi.\nSilahkan cetak KRS dan minta tanda tangan DPA"
             : "Registrasi ditolak. Silakan lunasi UKT terlebih dahulu"
         );
-
     }
 }
